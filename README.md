@@ -1,11 +1,6 @@
 # 🚀 AI & Machine Learning Portfolio  
 
----
-
-```markdown
-# 🚀 AI & Machine Learning Portfolio  
-
-Welcome to my **Machine Learning & Data Science** portfolio! This repository contains a **structured curriculum** of real-world projects designed to:  
+Welcome to my **AI & Machine Learning** portfolio! This repository contains a **structured curriculum** of real-world projects designed to:  
  
 ✅ **Showcase Projects on GitHub & LinkedIn**  
 
@@ -51,11 +46,8 @@ Each project utilizes modern **ML, AI, and Cloud Computing** technologies:
 
 ## 📂 **How to Use This Repository**  
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/ML-DS-Portfolio.git
-   cd ML-DS-Portfolio
-   ```
+1. Clone this repository.
+   
 2. Navigate to any project folder and follow the setup instructions inside each README file.  
 
 ---
