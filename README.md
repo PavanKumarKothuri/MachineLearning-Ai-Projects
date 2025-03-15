@@ -13,7 +13,7 @@ Each project tackles **real-world business challenges**, utilizing state-of-the-
 The projects are categorized into **Beginner**, **Intermediate**, and **Advanced** levels to ensure a progressive learning experience.  
 
 ### 🟢 **Beginner Level** (Fundamentals & Small Projects)  
-🔹 [Movie Recommendation System](projects/movie_recommendation) - Content-based & Collaborative Filtering  
+🔹 [Movie Recommendation System](https://github.com/PavanKumarKothuri/MachineLearning-MovieRecommendation-System) - Content-based & Collaborative Filtering  
 🔹 [House Price Prediction](projects/house_price_prediction) - Regression with Feature Engineering  
 🔹 [Fake News Detector](projects/fake_news_detection) - NLP-based Text Classification  
 
